@@ -1,0 +1,5 @@
+# for web app
+streamlit
+
+#for loading environment variables  #new
+python-dotenv
